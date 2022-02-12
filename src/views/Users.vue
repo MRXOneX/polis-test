@@ -120,5 +120,10 @@ export default {
         .users {
             width: 85%;
         }
+
+        .user {
+            
+            flex-wrap: wrap;
+        }
     }
 </style>
